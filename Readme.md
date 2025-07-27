@@ -33,6 +33,7 @@ HUGGINGFACEHUB_API_TOKEN=your_token_here
 
 ## Usage
 
+
 ### Run the main script
 
 ```sh
@@ -40,6 +41,22 @@ python main.py
 ```
 
 You will be prompted to enter your question. The model will generate an answer.
+
+---
+
+## Demo Example
+
+Here is a sample run of the script:
+
+```
+$ python main.py
+Enter your question: What is the capital of India?
+{'text': 'Q: What is the capital of India?\nA: The capital of India is New Delhi.'}
+```
+
+You can ask any question and the model will respond accordingly.
+
+---
 
 ### Use the Jupyter Notebook
 
