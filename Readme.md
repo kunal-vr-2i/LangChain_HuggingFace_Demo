@@ -76,7 +76,7 @@ The `notebook.ipynb` file demonstrates similar functionality and lets you experi
 ## More Details
 
 For a detailed explanation of how `main.py` works, including parameter descriptions, model choices, and more, see  
-👉 [How main.py works and model options](README_mainpy.md)
+👉 [How main.py works and model options](Readme_mainpy.md)
 
 ---
 
